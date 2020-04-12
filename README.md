@@ -8,6 +8,6 @@
 
   <a href="https://github.com/guilhermeasena32/be-the-hero/issues">
     <img alt="issues" src="https://img.shields.io/github/issues/guilhermeasena32/be-the-hero"></a>
-
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-black">
+  <a href="#">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-black"></a>
 </p>
